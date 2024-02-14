@@ -5,13 +5,6 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Imc", "Imc.csproj", "{FA8BEB16-C64A-4167-A8A7-7479251DC82B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{09F744EF-77AB-4DD4-8FAF-9629A69FDEF1}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflows", "workflows", "{3B6DAD90-1CBE-4C27-8000-FFA0A70FB433}"
-	ProjectSection(SolutionItems) = preProject
-		man.yml = man.yml
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,9 +18,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{3B6DAD90-1CBE-4C27-8000-FFA0A70FB433} = {09F744EF-77AB-4DD4-8FAF-9629A69FDEF1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9CA055B0-18AD-4EC5-B323-A2C4A64C725B}

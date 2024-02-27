@@ -4,7 +4,7 @@
 O CarnaCode é um evento online e gratuito que acontece nos dias 10, 11, 12 e 13 de Fevereiro, onde você terá a oportunidade de codificar uma aplicação Web (Blazor + PWA) completa, do começo ao fim.
 
 
-👉 https://go.balta.io/carnacode-2024
+👉 https://alex-marafon.github.io/carnacode-balta-2024-desafio-03/
 
 ## Sobre o Desafio
 Neste terceiro desafio, adicionamos suporte a PWA e publicamos a aplicação completa para calcular o IMC (Índice de Massa Muscular) que fizemos nos desafios anteriores. Aprendemos conceitos como Git, GitHub, CI/CD, DevOps e PWA.
